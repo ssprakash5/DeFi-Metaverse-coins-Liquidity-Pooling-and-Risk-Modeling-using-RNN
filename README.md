@@ -33,6 +33,7 @@ Expected Outcomes:
 •	A robust risk prediction model that accurately forecasts liquidity pool risks in various DeFi environments.
 •	An automated liquidity pool management system that optimizes returns and minimizes losses for liquidity providers.
 •	Data-driven insights into DeFi liquidity pool behavior and risks.
+
 Impact:
 •	Improved risk management for DeFi liquidity providers, potentially increasing participation and liquidity in decentralized finance.
 •	Enhanced security and reliability of DeFi protocols through smart contract auditing.
