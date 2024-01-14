@@ -1,4 +1,4 @@
-# DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling-using-
+# DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling
 Project Title: DeFi Liquidity Pool Risk Modeling and Management
 Project Overview: In this project, you will develop a comprehensive risk modeling and management system for DeFi liquidity pools. You will utilize both machine learning and deep learning techniques to predict and manage liquidity risks, ensuring the stability and security of decentralized financial protocols.
 Skills and Technologies Utilized:
