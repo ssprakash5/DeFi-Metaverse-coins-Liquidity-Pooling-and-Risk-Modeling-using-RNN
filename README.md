@@ -1,4 +1,4 @@
-# DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling
+# DeFi-Metaverse-coins-Liquidity-Pool-Risk-Modeling using RNN
 ![Defi Risk Modelling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling-using-/assets/154003057/0e0874e1-0995-4e1d-b683-13451aebb03c)
 
 Project Title: DeFi Liquidity Pool Risk Modeling and Management
