@@ -1,5 +1,6 @@
 # DeFi-Metaverse-coins-Liquidity-Pool-Risk-Modeling using RNN
 ![Defi Risk Modelling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling-using-/assets/154003057/0e0874e1-0995-4e1d-b683-13451aebb03c)
+
 Metaverse tokens are virtual currencies facilitating transactions within blockchain-based metaverses. Enabled by blockchain technology, these tokens ensure near-instant and secure transactions, fostering a corruption-free virtual economy. Holders can access services, gain in-game abilities, and own unique virtual items. Unlike traditional games, metaverse tokens hold real-world value, being exchangeable for fiat currencies or utilized as NFTs for authenticating ownership of tangible assets. Examples include SAND in Sandbox for NFT-driven virtual worlds, MANA in Decentraland for purchasing digital real estate, and ENJ in Enjin for a vast NFT network in the gaming/app ecosystem.
 Project Title: DeFi(Metaverse coins) Liquidity Pool Risk Modeling and Management
 Project Overview: In this project, you will develop a comprehensive risk modeling and management system for DeFi liquidity pools. You will utilize deep learning techniques to predict and manage liquidity risks, ensuring the stability and security of decentralized financial protocols.
