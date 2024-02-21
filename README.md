@@ -1,7 +1,9 @@
 # DeFi-Metaverse-coins-Liquidity-Pool-Risk-Modeling using RNN
 ![Defi Risk Modelling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling-using-/assets/154003057/0e0874e1-0995-4e1d-b683-13451aebb03c)
+![Best-Metaverse-Crypto-That-Can-Outperform-Bitcoin-In-2022](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/17518d7c-f064-4e00-9404-34475f3c2a71)
 
 Metaverse tokens are virtual currencies facilitating transactions within blockchain-based metaverses. Enabled by blockchain technology, these tokens ensure near-instant and secure transactions, fostering a corruption-free virtual economy. Holders can access services, gain in-game abilities, and own unique virtual items. Unlike traditional games, metaverse tokens hold real-world value, being exchangeable for fiat currencies or utilized as NFTs for authenticating ownership of tangible assets. Examples include SAND in Sandbox for NFT-driven virtual worlds, MANA in Decentraland for purchasing digital real estate, and ENJ in Enjin for a vast NFT network in the gaming/app ecosystem.
+![explain-defi](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/55c8fdd4-1a41-49f7-b2ff-265c3da8b481)
 
 ## Project Overview
 
@@ -33,6 +35,7 @@ This project aims to develop a comprehensive risk modeling and management system
 
 - Design an algorithmic liquidity pool management system that dynamically adjusts liquidity provision strategies based on risk predictions.
 - Implement automated strategies for adding or removing liquidity to optimize returns and mitigate potential losses.
+![liqudity pooling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/83c5fd75-9f7f-4e20-87be-f70ab0a93571)
 
 ### Visualization and Reporting
 
