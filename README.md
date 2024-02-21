@@ -1,4 +1,4 @@
-# DeFi-Metaverse-coins-Liquidity-Pool-Risk-Modeling using RNN
+![RNN gif](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/3b78f6be-5452-4b30-bfa6-307cf09a11cf)# DeFi-Metaverse-coins-Liquidity-Pool-Risk-Modeling using RNN
 ![Defi Risk Modelling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling-using-/assets/154003057/0e0874e1-0995-4e1d-b683-13451aebb03c)
 ![Best-Metaverse-Crypto-That-Can-Outperform-Bitcoin-In-2022](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/17518d7c-f064-4e00-9404-34475f3c2a71)
 
@@ -29,7 +29,12 @@ This project aims to develop a comprehensive risk modeling and management system
 ### Risk Prediction Model
 
 - Develop a machine learning model to predict liquidity pool risks, including impermanent loss, slippage, and vulnerability to flash loan attacks.
-- Utilize deep learning models such as Recurrent Neural Networks (RNNs) or Transformers to capture temporal dependencies and complex patterns in DeFi data.
+- Utilize deep learning models such as Recurrent Neural Networks (RNNs) or Transformers to !
+capture temporal dependencies and complex patterns in DeFi data.
+
+![RNN gif](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/55a10a28-07b2-469f-90c5-7411aa7493f6)
+
+![LSTM1](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/96c9315b-ccdc-4b5a-b01d-aff6a32c79a9)
 
 ### Liquidity Pool Management
 
