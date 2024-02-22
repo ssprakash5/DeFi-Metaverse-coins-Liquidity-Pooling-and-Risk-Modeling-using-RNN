@@ -8,7 +8,7 @@ Metaverse tokens are virtual currencies facilitating transactions within blockch
 
 ## Project Overview
 
-This project aims to develop a comprehensive risk modeling and management system for decentralized finance (DeFi) liquidity pools, focusing on tokens within blockchain-based metaverses. Deep learning techniques will be employed to predict and manage liquidity risks, ensuring the stability and security of decentralized financial protocols.
+This project aims to develop a comprehensive risk modeling and management system for decentralized finance (DeFi) liquidity pools, focusing on tokens within blockchain-based metaverses. Deep learning techniques will be employed to predict and manage liquidity risks, ensuring the stability and security of decentralized financial protocols. Trained with Metaverse Coins Historical Data (https://www.kaggle.com/datasets/kaushiksuresh147/metaverse-cryptos-historical-data)
 
 ## Skills and Technologies Utilized
 
