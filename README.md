@@ -12,8 +12,8 @@ This project aims to develop a comprehensive risk modeling and management system
 
 ## Skills and Technologies Utilized
 
-- Deep Learning (Recurrent Neural Networks, Transformers)
-- Python (TensorFlow, PyTorch)
+- Deep Learning (Recurrent Neural Networks)
+- Python (PyTorch)
 - Data Preprocessing and Analysis
 - Data Visualization
 - DeFi Protocols (e.g., Uniswap, SushiSwap)
@@ -24,14 +24,14 @@ This project aims to develop a comprehensive risk modeling and management system
 
 ### Data Collection and Preprocessing
 
-- Gather historical data from DeFi platforms, including liquidity pool transaction details, token prices, user behaviors, and market conditions.
+- Gather historical data from DeFi platforms(198 Metaverse coins), including Open, High, Low, and Close with Volume to understand the Liquidity, token prices, user behaviors, and market conditions.
 - Clean, preprocess, and normalize the data to make it suitable for modeling.
 
 ### Risk Prediction Model
-
-- Develop a machine learning model to predict liquidity pool risks, including impermanent loss, slippage, and vulnerability to flash loan attacks.
-- Utilize deep learning models such as Recurrent Neural Networks (RNNs) or Transformers to !
-capture temporal dependencies and complex patterns in DeFi data.
+- Utilize deep learning models such as Recurrent Neural Networks (RNN)- Long short-term memory (LSTM)
+- Develop an LSTM model to predict the movement of price-changing.
+- Then calculate the ImpermanentLoss and Use the LSTM model to predict the Risk Score.
+- With a Moving Average of risk score and the Risk_threshold identify the place to add and remove liquidity.
 
 ![RNN gif](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/55a10a28-07b2-469f-90c5-7411aa7493f6)
 
@@ -45,16 +45,12 @@ capture temporal dependencies and complex patterns in DeFi data.
 
 ### Visualization and Reporting
 
-- Create interactive data visualizations and dashboards to monitor liquidity pool performance and risk metrics.
-- Generate risk assessment reports for liquidity providers, enabling them to make informed decisions.
+- Create interactive data visualizations to monitor liquidity pool performance and risk metrics(Risk Score, Moving Average(MA-7),position to Add and RemoveLiqidity with Risk Threshold)
+- This will Generate risk assessment reports for liquidity providers, enabling them to make informed decisions.
 
-### Simulation and Backtesting
+### Calculate Cumulative and New Liquidity
 
-- Conduct simulations and backtesting of the risk models and management strategies using historical data to assess their effectiveness.
-
-### Security Auditing
-
-- Perform smart contract audits to ensure the security and reliability of DeFi protocols used in the project.
+- After adding Liquidity, the cumulative return over the period and Calculate the new liquidity.
 
 ## Expected Outcomes
 
@@ -64,7 +60,7 @@ capture temporal dependencies and complex patterns in DeFi data.
 
 ## Impact
 
-- Improved risk management for DeFi liquidity providers, potentially increasing participation and liquidity in decentralized finance.
+- Will improve risk management for DeFi liquidity providers, potentially increasing participation and liquidity in decentralized finance.
 - Enhanced security and reliability of DeFi protocols through smart contract auditing.
 - Advancement in the understanding and application of data science and deep learning in the DeFi space.
 
