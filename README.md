@@ -1,7 +1,6 @@
 # DeFi-Metaverse-coins-Liquidity-Pool-Risk-Modeling using RNN
 ![Risk Score Liquidity pooling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/949405ca-2278-46d7-b096-0d568d8a6475)
 
-![Defi Risk Modelling](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-RNNPool-Risk-Modeling-using-/assets/154003057/0e0874e1-0995-4e1d-b683-13451aebb03c)
 ![Best-Metaverse-Crypto-That-Can-Outperform-Bitcoin-In-2022](https://github.com/ssprakash5/DeFi-Metaverse-coins-Liquidity-Pooling-and-Risk-Modeling-using-RNN/assets/154003057/17518d7c-f064-4e00-9404-34475f3c2a71)
 
 ## Metaverse coins
